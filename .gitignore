@@ -1,7 +1,3 @@
-package.box
 .vagrant
 share/config/cert-bundle
 share/config/kibana.yml
-share/kibana*tar.gz*
-share/metricbeat*tar.gz*
-share/*log
